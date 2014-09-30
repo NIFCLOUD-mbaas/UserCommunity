@@ -1,13 +1,12 @@
 
 <a href="http://mb.cloud.nifty.com/"><img src="img/HEADER2.jpg" alt="" width="700" height="110" border="0" /></a>
 
-
 <a href="../../issues">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="30" border="0" />
+  <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="30" border="0" />
-</a>
+  <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
+</a> 
 
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="24" border="0" />

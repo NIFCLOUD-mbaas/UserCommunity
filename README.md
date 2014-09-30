@@ -103,8 +103,8 @@
 # 開発での課題解決や情報共有にぜひご活用ください！
 
 <a href="../../issues">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="30" border="0" />
+  <img src="img/ichirantokou.JPG" alt="一覧" height="50" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="30" border="0" />
+  <img src="img/shinkitokou.JPG" alt="新規" height="50" border="0" />
 </a>

@@ -1,7 +1,7 @@
 
 <a href="http://mb.cloud.nifty.com/"><img src="img/HEADER2.jpg" alt="" width="700" height="110" border="0" /></a>
 
-<a href="../../issues">
+<a href="../../issues?q=">
   <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
 </a>
 <a href="../../issues/new">
@@ -104,7 +104,7 @@
 
 # 開発での課題解決や情報共有にぜひご活用ください！
 
-<a href="../../issues">
+<a href="../../issues?q=">
   <img src="img/ichirantokou.JPG" alt="一覧" height="50" border="0" />
 </a>
 <a href="../../issues/new">

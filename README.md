@@ -35,29 +35,26 @@
 <a href="../../labels/相談">
   <img src="img/soudan.JPG" alt="相談" height="24" border="0" />
 </a>
-<a href="../../labels/紹介">
-  <img src="img/shoukai.JPG" alt="紹介" height="24" border="0" />
+<a href="../../labels/アプリ紹介">
+  <img src="img/applishoukai.JPG" alt="アプリ紹介" height="24" border="0" />
 </a>
-<a href="../../labels/共有">
-  <img src="img/kyouyu.JPG" alt="共有" height="24" border="0" />
+<a href="../../labels/セミナー情報">
+  <img src="img/semina.JPG" alt="セミナー" height="24" border="0" />
 </a>
 <a href="../../labels/TIPS">
   <img src="img/TIPS.JPG" alt="TIPS" height="24" border="0" />
 </a>
-<a href="../../labels/ユーザ管理">
-  <img src="img/User.JPG" alt="ユーザ管理" height="24" border="0" />
+<a href="../../labels/会員管理">
+  <img src="img/User.JPG" alt="会員管理" height="24" border="0" />
 </a>
-<a href="../../labels/ソーシャル連携">
-  <img src="img/SNS.JPG" alt="ソーシャル連携" height="24" border="0" />
+<a href="../../labels/SNS連携">
+  <img src="img/SNS.JPG" alt="SNS連携" height="24" border="0" />
 </a>
 <a href="../../labels/データストア">
   <img src="img/Datastore.JPG" alt="データストア" height="24" border="0" />
 </a>
 <a href="../../labels/プッシュ通知">
   <img src="img/Push.JPG" alt="プッシュ通知" height="24" border="0" />
-</a>
-<a href="../../labels/ロールACL">
-  <img src="img/Role.JPG" alt="ロールACL" height="24" border="0" />
 </a>
 <a href="../../labels/クエリ検索">
   <img src="img/Query.JPG" alt="クエリ検索" height="24" border="0" />

@@ -9,55 +9,55 @@
 </a> 
 
 <a href="../../labels/Android">
-  <img src="img/Android.JPG" alt="Android" height="24" border="0" />
+  <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
 <a href="../../labels/iOS">
-  <img src="img/iOS.JPG" alt="iOS" height="24" border="0" />
+  <img src="img/iOS.JPG" alt="iOS" height="20" border="0" />
 </a> 
 <a href="../../labels/JavaScript">
-  <img src="img/Javascript.JPG" alt="JavaScript" height="24" border="0" />
+  <img src="img/Javascript.JPG" alt="JavaScript" height="20" border="0" />
 </a>
 <a href="../../labels/Unity">
-  <img src="img/Unity.JPG" alt="Unity" height="24" border="0" />
+  <img src="img/Unity.JPG" alt="Unity" height="20" border="0" />
 </a>
 <a href="../../labels/Monaca">
-  <img src="img/Monaca.JPG" alt="Monaca" height="24" border="0" />
+  <img src="img/Monaca.JPG" alt="Monaca" height="20" border="0" />
 </a> 
 <a href="../../labels/REST API">
-  <img src="img/RestAPI.JPG" alt="REST API" height="24" border="0" />
+  <img src="img/RestAPI.JPG" alt="REST API" height="20" border="0" />
 </a>
 <a href="../../labels/SDK">
-  <img src="img/SDK.JPG" alt="SDK" height="24" border="0" />
+  <img src="img/SDK.JPG" alt="SDK" height="20" border="0" />
 </a> 
 <a href="../../labels/コントロールパネル">
-  <img src="img/ControlPanel.JPG" alt="コントロールパネル" height="24" border="0" />
+  <img src="img/ControlPanel.JPG" alt="コントロールパネル" height="20" border="0" />
 </a>
 <a href="../../labels/相談">
-  <img src="img/soudan.JPG" alt="相談" height="24" border="0" />
+  <img src="img/soudan.JPG" alt="相談" height="20" border="0" />
 </a>
 <a href="../../labels/アプリ紹介">
-  <img src="img/applishoukai.JPG" alt="アプリ紹介" height="24" border="0" />
+  <img src="img/applishoukai.JPG" alt="アプリ紹介" height="20" border="0" />
 </a>
 <a href="../../labels/セミナー情報">
-  <img src="img/semina.JPG" alt="セミナー" height="24" border="0" />
+  <img src="img/semina.JPG" alt="セミナー" height="20" border="0" />
 </a>
 <a href="../../labels/TIPS">
-  <img src="img/TIPS.JPG" alt="TIPS" height="24" border="0" />
+  <img src="img/TIPS.JPG" alt="TIPS" height="20" border="0" />
 </a>
 <a href="../../labels/会員管理">
-  <img src="img/User.JPG" alt="会員管理" height="24" border="0" />
+  <img src="img/User.JPG" alt="会員管理" height="20" border="0" />
 </a>
 <a href="../../labels/SNS連携">
-  <img src="img/SNS.JPG" alt="SNS連携" height="24" border="0" />
+  <img src="img/SNS.JPG" alt="SNS連携" height="20" border="0" />
 </a>
 <a href="../../labels/データストア">
-  <img src="img/Datastore.JPG" alt="データストア" height="24" border="0" />
+  <img src="img/Datastore.JPG" alt="データストア" height="20" border="0" />
 </a>
 <a href="../../labels/プッシュ通知">
-  <img src="img/Push.JPG" alt="プッシュ通知" height="24" border="0" />
+  <img src="img/Push.JPG" alt="プッシュ通知" height="20" border="0" />
 </a>
 <a href="../../labels/クエリ検索">
-  <img src="img/Query.JPG" alt="クエリ検索" height="24" border="0" />
+  <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
 </a>
 
 

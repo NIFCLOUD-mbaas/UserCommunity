@@ -7,10 +7,14 @@
 <a href="../../issues/new">
   <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
 </a> 
+<a href="http://cta-redirect.hubspot.com/cta/redirect/319131/30fec8d7-a4e7-489d-9450-05170e35809b">
+  <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
+</a> 
+
 <!--HubSpot Call-to-Action Code -->
 <span class="hs-cta-wrapper" id="hs-cta-wrapper-01678b9d-6a07-4d17-b97b-de355f2973a3">
     <span class="hs-cta-node hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3" id="hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3">
-        <a href="http://cta-redirect.hubspot.com/cta/redirect/319131/01678b9d-6a07-4d17-b97b-de355f2973a3" ><img class="hs-cta-img" id="hs-cta-img-01678b9d-6a07-4d17-b97b-de355f2973a3" style="border-width:0px;" src="https://no-cache.hubspot.com/cta/default/319131/01678b9d-6a07-4d17-b97b-de355f2973a3.png"  alt="mBaaSサイトへ"/></a>
+        <a href="http://cta-redirect.hubspot.com/cta/redirect/319131/01678b9d-6a07-4d17-b97b-de355f2973a3" style=" text-decoration: underline">ニフティクラウドmobile backendサイトへ</a>
     </span>
     <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
     <script type="text/javascript">

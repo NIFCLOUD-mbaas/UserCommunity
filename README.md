@@ -78,17 +78,30 @@
 
 # ニフティクラウド mobile backend ユーザーコミュニティ
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)のコミュニティフォーラムになります。Issues(投稿)を使って運用されていますので、ニフティクラウド mobile backendを使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフティクラウド mobile backendを使っていく中での不明点、Tips、利用例などを投稿してください。
 
 ## ご注意
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)の全ユーザ向けのコミュニティフォーラムになります。エヴァンジェリストとして [moongift](https://github.com/moongift) は参加していますが、回答を確約できる訳ではありません。ニフティとしてのテクニカルサポートを希望される場合は[Expert](http://mb.cloud.nifty.com/price.htm)プランをご検討ください。
+こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) が、 コミュニティサポートとしてニフティのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 
 他者を誹謗中傷したり、公共良俗に反する内容を投稿しないようお願いします。公共良俗に反する内容が発生する恐れがある際、管理者によってissueをクローズ場合があります。
 
 投稿して頂いた内容では問題解決できたとしても、他の開発者にも参考になる情報なので、クローズしないようお願いします。
+
+コミュニティに参加するメンバー：
+<p>
+<a href="https://github.com/ncmbadmin">
+  <img src="https://avatars2.githubusercontent.com/u/8982421?v=3&s=460" alt="ncmbadmin" height="60" border="0" />
+</a>
+<a href="https://github.com/ncmbsupport">
+  <img src="https://avatars1.githubusercontent.com/u/12031055?v=3&s=460" alt="ncmbsupport" height="60" border="0" />
+</a>
+<a href="https://github.com/ncmbinfo">
+  <img src="https://avatars3.githubusercontent.com/u/8110297?v=3&s=460" alt="ncmbinfo" height="60" border="0" />
+</a>
+</p>
 
 ## こんな投稿が可能です
 

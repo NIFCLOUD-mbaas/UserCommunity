@@ -82,7 +82,7 @@
 
 ## ご注意
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) が、 コミュニティサポートとしてニフティのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm)にて提供しておりますテクニカルサポートをご利用ください。
+こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフティのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 
@@ -90,7 +90,7 @@
 
 投稿して頂いた内容では問題解決できたとしても、他の開発者にも参考になる情報なので、クローズしないようお願いします。
 
-コミュニティに参加するメンバー：
+コミュニティに参加するニフティのメンバー：
 <p>
 <a href="https://github.com/ncmbadmin">
   <img src="https://avatars2.githubusercontent.com/u/8982421?v=3&s=460" alt="ncmbadmin" height="60" border="0" />

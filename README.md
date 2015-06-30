@@ -1,5 +1,5 @@
 
-<a href="http://mb.cloud.nifty.com/"><img src="img/HEADER2.jpg" alt="" width="700" height="110" border="0" /></a>
+<a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/HEADER2.jpg" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../issues?q=">
   <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
@@ -14,7 +14,7 @@
 <!--HubSpot Call-to-Action Code -->
 <span class="hs-cta-wrapper" id="hs-cta-wrapper-01678b9d-6a07-4d17-b97b-de355f2973a3">
     <span class="hs-cta-node hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3" id="hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3">
-        <a href="http://cta-redirect.hubspot.com/cta/redirect/319131/01678b9d-6a07-4d17-b97b-de355f2973a3" style=" text-decoration: underline">ニフティクラウドmobile backendサイトへ</a>
+        <a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community" style=" text-decoration: underline">ニフティクラウドmobile backendサイトへ</a>
     </span>
     <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
     <script type="text/javascript">
@@ -78,11 +78,11 @@
 
 # ニフティクラウド mobile backend ユーザーコミュニティ
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフティクラウド mobile backendを使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community)のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフティクラウド mobile backendを使っていく中での不明点、Tips、利用例などを投稿してください。
 
 ## ご注意
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフティのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm)にて提供しておりますテクニカルサポートをご利用ください。
+こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフティのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 

@@ -7,7 +7,7 @@
 <a href="../../issues/new">
   <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
 </a> 
-<a href="http://cta-redirect.hubspot.com/cta/redirect/319131/30fec8d7-a4e7-489d-9450-05170e35809b">
+<a href="http://mb.cloud.nifty.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
   <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
 </a> 
 

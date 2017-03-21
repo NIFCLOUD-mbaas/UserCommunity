@@ -11,18 +11,6 @@
   <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
 </a> 
 
-<!--HubSpot Call-to-Action Code -->
-<span class="hs-cta-wrapper" id="hs-cta-wrapper-01678b9d-6a07-4d17-b97b-de355f2973a3">
-    <span class="hs-cta-node hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3" id="hs-cta-01678b9d-6a07-4d17-b97b-de355f2973a3">
-        <a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community" style=" text-decoration: underline">ニフティクラウドmobile backendサイトへ</a>
-    </span>
-    <script charset="utf-8" src="https://js.hscta.net/cta/current.js"></script>
-    <script type="text/javascript">
-        hbspt.cta.load(319131, '01678b9d-6a07-4d17-b97b-de355f2973a3');
-    </script>
-</span>
-<!-- end HubSpot Call-to-Action Code -->
-
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
@@ -74,7 +62,6 @@
 <a href="../../labels/クエリ検索">
   <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
 </a>
-
 
 # ニフティクラウド mobile backend ユーザーコミュニティ
 

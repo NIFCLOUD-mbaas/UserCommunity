@@ -10,7 +10,7 @@
 <a href="http://mb.cloud.nifty.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
   <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
 </a> 
-
+<br>
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>

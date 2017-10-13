@@ -1,6 +1,6 @@
 @charset "UTF-8";
 /* base plus css */
-h1 {
-  margin: .67em 0;
-  font-size: 20em; }
+.entry-footer-section {
+      display:none;
+}
 

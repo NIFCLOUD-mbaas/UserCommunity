@@ -1,5 +1,2 @@
-@charset "UTF-8";
-html {
-  -webkit-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  line-height: 1.15; }
+.fn {
+  display:none; }

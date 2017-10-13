@@ -1,6 +1,5 @@
 @charset "UTF-8";
 /* base plus css */
-.entry-footer.entry-footer-section {
+.entry-footer-section {
       display:none;
 }
-

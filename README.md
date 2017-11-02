@@ -1,22 +1,22 @@
 
-<a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/HEADER2.jpg" alt="" width="700" height="110" border="0" /></a>
+<a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../issues?q=">
   <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
 </a>
 <a href="../../issues/new">
   <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
-</a> 
+</a>
 <a href="http://mb.cloud.nifty.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
   <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
-</a> 
+</a>
 <br>
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
 <a href="../../labels/iOS">
   <img src="img/iOS.JPG" alt="iOS" height="20" border="0" />
-</a> 
+</a>
 <a href="../../labels/JavaScript">
   <img src="img/Javascript.JPG" alt="JavaScript" height="20" border="0" />
 </a>
@@ -25,13 +25,13 @@
 </a>
 <a href="../../labels/Monaca">
   <img src="img/Monaca.JPG" alt="Monaca" height="20" border="0" />
-</a> 
+</a>
 <a href="../../labels/REST API">
   <img src="img/RestAPI.JPG" alt="REST API" height="20" border="0" />
 </a>
 <a href="../../labels/SDK">
   <img src="img/SDK.JPG" alt="SDK" height="20" border="0" />
-</a> 
+</a>
 <a href="../../labels/コントロールパネル">
   <img src="img/ControlPanel.JPG" alt="コントロールパネル" height="20" border="0" />
 </a>
@@ -63,13 +63,13 @@
   <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
 </a>
 
-# ニフティクラウド mobile backend ユーザーコミュニティ
+# ニフクラウド mobile backend ユーザーコミュニティ
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community)のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフティクラウド mobile backendを使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラウド mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
 
 ## ご注意
 
-こちらは[ニフティクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community)の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフティクラウドmobile backendのメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
+こちらは[ニフクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフクラウド mobile backend のメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 
@@ -92,18 +92,18 @@
 
 ## こんな投稿が可能です
 
-- ニフティクラウド mobile backendを使っている中での不明点
+- ニフクラウド mobile backend を使っている中での不明点
   - サーバサイドが絡むとこのコミュニティでは回答できない可能性があります。
-  - こんな機能を作りたいですが、ニフティクラウドmobile backendを使ったらできますか？ぜひ気楽に相談してください！
+  - こんな機能を作りたいですが、ニフクラウド mobile backend を使ったらできますか？ぜひ気楽に相談してください！
   - サービスの細かい仕様の確認などもどうぞ！
-- ニフティクラウド mobile backendを使ってみた
+- ニフクラウド mobile backend を使ってみた
   - アプリ紹介、ブログ記事など何でも結構です。ぜひ自慢してください！
   - こんな使い方だったら便利ですよ！ぜひシェアしましょう！
 
 例えば、
 
 ```
-ニフティクラウドmobile backendを使ってこんなアプリを作りました！ぜひ使ってみてください！
+ニフクラウド mobile backend を使ってこんなアプリを作りました！ぜひ使ってみてください！
 ```
 
 ```

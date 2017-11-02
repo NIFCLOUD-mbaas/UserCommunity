@@ -63,13 +63,13 @@
   <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
 </a>
 
-# ニフクラウド mobile backend ユーザーコミュニティ
+# ニフクラ mobile backend ユーザーコミュニティ
 
-こちらは[ニフクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラウド mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフクラ mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
 
 ## ご注意
 
-こちらは[ニフクラウド mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフクラウド mobile backend のメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
+こちらは[ニフクラ mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフクラ mobile backend のメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 
@@ -92,18 +92,18 @@
 
 ## こんな投稿が可能です
 
-- ニフクラウド mobile backend を使っている中での不明点
+- ニフクラ mobile backend を使っている中での不明点
   - サーバサイドが絡むとこのコミュニティでは回答できない可能性があります。
-  - こんな機能を作りたいですが、ニフクラウド mobile backend を使ったらできますか？ぜひ気楽に相談してください！
+  - こんな機能を作りたいですが、ニフクラ mobile backend を使ったらできますか？ぜひ気楽に相談してください！
   - サービスの細かい仕様の確認などもどうぞ！
-- ニフクラウド mobile backend を使ってみた
+- ニフクラ mobile backend を使ってみた
   - アプリ紹介、ブログ記事など何でも結構です。ぜひ自慢してください！
   - こんな使い方だったら便利ですよ！ぜひシェアしましょう！
 
 例えば、
 
 ```
-ニフクラウド mobile backend を使ってこんなアプリを作りました！ぜひ使ってみてください！
+ニフクラ mobile backend を使ってこんなアプリを作りました！ぜひ使ってみてください！
 ```
 
 ```

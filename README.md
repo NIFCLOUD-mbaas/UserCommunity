@@ -32,8 +32,8 @@
 <a href="../../labels/SDK">
   <img src="img/SDK.JPG" alt="SDK" height="20" border="0" />
 </a>
-<a href="../../labels/コントロールパネル">
-  <img src="img/ControlPanel.JPG" alt="コントロールパネル" height="20" border="0" />
+<a href="../../labels/管理画面">
+  <img src="img/ControlPanel.JPG" alt="管理画面" height="20" border="0" />
 </a>
 <a href="../../labels/相談">
   <img src="img/soudan.JPG" alt="相談" height="20" border="0" />

@@ -1,5 +1,5 @@
 
-<a href="http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
+<a href="https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../issues?q=">
   <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
@@ -7,7 +7,7 @@
 <a href="../../issues/new">
   <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
 </a>
-<a href="http://mb.cloud.nifty.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
+<a href="https://mbaas.nifcloud.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
   <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
 </a>
 <br>
@@ -65,11 +65,11 @@
 
 # ニフクラ mobile backend ユーザーコミュニティ
 
-こちらは[ニフクラ mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
 
 ## ご注意
 
-こちらは[ニフクラ mobile backend](http://mb.cloud.nifty.com/?utm_source=referral&utm_medium=community&utm_campaign=community) の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフクラ mobile backend のメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](http://mb.cloud.nifty.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
+こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) の全ユーザ向けのユーザーコミュニティです。エヴァンジェリストとして [moongift](https://github.com/moongift) と、 コミュニティサポートとしてニフクラ mobile backend のメンバーが参加することがあります。ただし、回答保証はありません。回答保証があるサポートを希望される場合、[有償プラン](https://mbaas.nifcloud.com/price.htm?utm_source=referral&utm_medium=community&utm_campaign=community)にて提供しておりますテクニカルサポートをご利用ください。
 
 アプリケーションキー、クライアントキーや認証情報などセキュリティに関係する情報や個人情報は書き込まないようお願いします。
 

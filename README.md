@@ -2,13 +2,13 @@
 <a href="https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../issues">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
+  <img src="img/ichirantokou.png" alt="一覧" height="60" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
+  <img src="img/shinkitokou.png" alt="新規" height="60" border="0" />
 </a>
-<a href="https://mbaas.nifcloud.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
-  <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
+<a href="https://github.com/NIFCloud-mbaas/UserCommunity/issues?page=1&q=is%3Aissue+is%3Aopen+%E9%81%8E%E5%8E%BB%E8%B3%AA%E5%95%8F++in%3Atitle&utf8=%E2%9C%93">
+  <img src="img/faqtokou.png" alt="技術FAQ" height="60" border="0" />
 </a>
 <br>
 <a href="../../labels/Android">
@@ -102,20 +102,13 @@
 
 例えば、
 
+
 ```
-ニフクラ mobile backend を使ってこんなアプリを作りました！ぜひ使ってみてください！
+プッシュ通知エラーになってしまいました！助けてください
 ```
 
 ```
-プッシュ通知の実装が分からない！助けてください
-```
-
-```
-ユーザー管理の認証機能ってどんなものですか？助けてください！
-```
-
-```
-プッシュ通知を登録したのですが、「配信エラー」になっています。なぜですか？
+ユーザー管理の認証機能ってなかなかドキュメントの通りに動いていません、どこが間違いましたでしょうか
 ```
 
 ```
@@ -125,8 +118,8 @@ REST APIを使いたいんですが、Javaからアクセスしたら認証エ�
 # 開発での課題解決や情報共有にぜひご活用ください！
 
 <a href="../../issues?q=">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="50" border="0" />
+  <img src="img/ichirantokou.png" alt="一覧" height="50" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="50" border="0" />
+  <img src="img/shinkitokou.png" alt="新規" height="50" border="0" />
 </a>

@@ -65,7 +65,7 @@
 
 # ニフクラ mobile backend ユーザーコミュニティ
 
-こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tipsなどを投稿してください。
 
 ## ご注意
 

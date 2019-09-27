@@ -15,7 +15,7 @@
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
 <a href="../../labels/iOS">
-  <img src="img/iOS.jpg" alt="iOS" height="20" border="0" />
+  <img src="img/iOS.JPG" alt="iOS" height="20" border="0" />
 </a>
 <a href="../../labels/JavaScript">
   <img src="img/Javascript.JPG" alt="JavaScript" height="20" border="0" />

@@ -14,6 +14,9 @@
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
+<a href="../../labels/Swift">
+  <img src="img/Swift.JPG" alt="Swift" height="20" border="0" />
+</a>
 <a href="../../labels/iOS">
   <img src="img/iOS.JPG" alt="iOS" height="20" border="0" />
 </a>

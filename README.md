@@ -14,10 +14,10 @@
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
-<a href="../../labels/iOS%28Swift%29">
+<a href="../../labels/iOS(Swift)">
   <img src="img/Swift.JPG" alt="Swift" height="20" border="0" />
 </a>
-<a href="../../labels/iOS%28Obj-C%29">
+<a href="../../labels/iOS(Obj-C)">
   <img src="img/iOS.JPG" alt="iOS" height="20" border="0" />
 </a>
 <a href="../../labels/JavaScript">

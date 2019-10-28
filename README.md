@@ -14,6 +14,9 @@
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
+<a href="../../labels/FCM">
+  <img src="img/FCM.JPG" alt="Android" height="20" border="0" />
+</a>
 <a href="../../labels/iOS%28Swift%29">
   <img src="img/Swift.JPG" alt="Swift" height="20" border="0" />
 </a>
@@ -29,6 +32,29 @@
 <a href="../../labels/Monaca">
   <img src="img/Monaca.JPG" alt="Monaca" height="20" border="0" />
 </a>
+<a href="../../labels/Ruby">
+  <img src="img/Ruby.JPG" alt="Ruby" height="20" border="0" />
+</a>
+
+<br>
+
+<a href="../../labels/会員管理">
+  <img src="img/User.JPG" alt="会員管理" height="20" border="0" />
+</a>
+<a href="../../labels/SNS連携">
+  <img src="img/SNS.JPG" alt="SNS連携" height="20" border="0" />
+</a>
+<a href="../../labels/データストア">
+  <img src="img/Datastore.JPG" alt="データストア" height="20" border="0" />
+</a>
+<a href="../../labels/プッシュ通知">
+  <img src="img/Push.JPG" alt="プッシュ通知" height="20" border="0" />
+</a>
+<a href="../../labels/クエリ検索">
+  <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
+</a>
+
+<br>
 <a href="../../labels/REST API">
   <img src="img/RestAPI.JPG" alt="REST API" height="20" border="0" />
 </a>
@@ -50,21 +76,8 @@
 <a href="../../labels/TIPS">
   <img src="img/TIPS.JPG" alt="TIPS" height="20" border="0" />
 </a>
-<a href="../../labels/会員管理">
-  <img src="img/User.JPG" alt="会員管理" height="20" border="0" />
-</a>
-<a href="../../labels/SNS連携">
-  <img src="img/SNS.JPG" alt="SNS連携" height="20" border="0" />
-</a>
-<a href="../../labels/データストア">
-  <img src="img/Datastore.JPG" alt="データストア" height="20" border="0" />
-</a>
-<a href="../../labels/プッシュ通知">
-  <img src="img/Push.JPG" alt="プッシュ通知" height="20" border="0" />
-</a>
-<a href="../../labels/クエリ検索">
-  <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
-</a>
+
+
 
 # ニフクラ mobile backend ユーザーコミュニティ
 

@@ -2,17 +2,23 @@
 <a href="https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../issues">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="60" border="0" />
+  <img src="img/ichirantokou.png" alt="一覧" height="60" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="60" border="0" />
+  <img src="img/shinkitokou.png" alt="新規" height="60" border="0" />
 </a>
-<a href="https://mbaas.nifcloud.com/doc/current/?utm_source=referral&utm_medium=community&utm_campaign=community">
-  <img src="img/document.PNG" alt="ドキュメント" height="60" border="0" />
+<a href="https://github.com/NIFCloud-mbaas/UserCommunity/issues?page=1&q=is%3Aissue+is%3Aopen+%E9%81%8E%E5%8E%BB%E8%B3%AA%E5%95%8F++in%3Atitle&utf8=%E2%9C%93">
+  <img src="img/faqtokou.png" alt="技術FAQ" height="60" border="0" />
 </a>
 <br>
+
+#### ジャンル別の質問一覧はこちら
+
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
+</a>
+<a href="../../labels/FCM">
+  <img src="img/FCM.JPG" alt="Android" height="20" border="0" />
 </a>
 <a href="../../labels/iOS%28Swift%29">
   <img src="img/Swift.JPG" alt="Swift" height="20" border="0" />
@@ -29,6 +35,29 @@
 <a href="../../labels/Monaca">
   <img src="img/Monaca.JPG" alt="Monaca" height="20" border="0" />
 </a>
+<a href="../../labels/Ruby">
+  <img src="img/Ruby.JPG" alt="Ruby" height="20" border="0" />
+</a>
+
+<br>
+
+<a href="../../labels/会員管理">
+  <img src="img/User.JPG" alt="会員管理" height="20" border="0" />
+</a>
+<a href="../../labels/SNS連携">
+  <img src="img/SNS.JPG" alt="SNS連携" height="20" border="0" />
+</a>
+<a href="../../labels/データストア">
+  <img src="img/Datastore.JPG" alt="データストア" height="20" border="0" />
+</a>
+<a href="../../labels/プッシュ通知">
+  <img src="img/Push.JPG" alt="プッシュ通知" height="20" border="0" />
+</a>
+<a href="../../labels/クエリ検索">
+  <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
+</a>
+
+<br>
 <a href="../../labels/REST API">
   <img src="img/RestAPI.JPG" alt="REST API" height="20" border="0" />
 </a>
@@ -50,25 +79,12 @@
 <a href="../../labels/TIPS">
   <img src="img/TIPS.JPG" alt="TIPS" height="20" border="0" />
 </a>
-<a href="../../labels/会員管理">
-  <img src="img/User.JPG" alt="会員管理" height="20" border="0" />
-</a>
-<a href="../../labels/SNS連携">
-  <img src="img/SNS.JPG" alt="SNS連携" height="20" border="0" />
-</a>
-<a href="../../labels/データストア">
-  <img src="img/Datastore.JPG" alt="データストア" height="20" border="0" />
-</a>
-<a href="../../labels/プッシュ通知">
-  <img src="img/Push.JPG" alt="プッシュ通知" height="20" border="0" />
-</a>
-<a href="../../labels/クエリ検索">
-  <img src="img/Query.JPG" alt="クエリ検索" height="20" border="0" />
-</a>
+
+
 
 # ニフクラ mobile backend ユーザーコミュニティ
 
-こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tips、利用例などを投稿してください。
+こちらは[ニフクラ mobile backend](https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community) のユーザーコミュニティになります。Issues(投稿)を使って運用されていますので、ニフクラ mobile backend を使っていく中での不明点、Tipsなどを投稿してください。
 
 ## ご注意
 
@@ -105,20 +121,13 @@
 
 例えば、
 
+
 ```
-ニフクラ mobile backend を使ってこんなアプリを作りました！ぜひ使ってみてください！
+プッシュ通知エラーになってしまいました！助けてください
 ```
 
 ```
-プッシュ通知の実装が分からない！助けてください
-```
-
-```
-ユーザー管理の認証機能ってどんなものですか？助けてください！
-```
-
-```
-プッシュ通知を登録したのですが、「配信エラー」になっています。なぜですか？
+ユーザー管理の認証機能ってなかなかドキュメントの通りに動いていません、どこか間違えてますでしょうか
 ```
 
 ```
@@ -128,8 +137,8 @@ REST APIを使いたいんですが、Javaからアクセスしたら認証エ�
 # 開発での課題解決や情報共有にぜひご活用ください！
 
 <a href="../../issues?q=">
-  <img src="img/ichirantokou.JPG" alt="一覧" height="50" border="0" />
+  <img src="img/ichirantokou.png" alt="一覧" height="50" border="0" />
 </a>
 <a href="../../issues/new">
-  <img src="img/shinkitokou.JPG" alt="新規" height="50" border="0" />
+  <img src="img/shinkitokou.png" alt="新規" height="50" border="0" />
 </a>

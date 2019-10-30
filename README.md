@@ -11,6 +11,8 @@
   <img src="img/faqtokou.png" alt="技術FAQ" height="60" border="0" />
 </a>
 <br>
+ジャンル別の質問一覧はこちら
+<br>
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>
@@ -124,7 +126,7 @@
 ```
 
 ```
-ユーザー管理の認証機能ってなかなかドキュメントの通りに動いていません、どこが間違いましたでしょうか
+ユーザー管理の認証機能ってなかなかドキュメントの通りに動いていません、どこか間違えてますでしょうか
 ```
 
 ```

@@ -14,7 +14,6 @@
 
 #### ジャンル別の質問一覧はこちら
 
-<br>
 <a href="../../labels/Android">
   <img src="img/Android.JPG" alt="Android" height="20" border="0" />
 </a>

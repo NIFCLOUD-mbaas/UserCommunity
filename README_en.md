@@ -1,5 +1,5 @@
 
-<a href="https://mbaas.nifcloud.com/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
+<a href="https://mbaas.nifcloud.com/en/?utm_source=referral&utm_medium=community&utm_campaign=community"><img src="img/mbaas_nifcloud_logo_RGB03.png" alt="" width="700" height="110" border="0" /></a>
 
 <a href="../../labels/en">
   <img src="img/ichirantokou_en.png" alt="list" height="60" border="0" />

@@ -14,7 +14,7 @@
 ## Introduction
 
 This is [NIFCLOUD mobile backend (mobile backend)]((https://mbaas.nifcloud.com/en/?utm_source=referral&utm_medium=community&utm_campaign=community)) User Community.
-If you have any questions or tips to share and discussion about our mobile backend, please click "Ask question" button to post an issue.
+If you have any questions or tips to share and discussion about our mobile backend, please click "Post" button to post an issue.
 This User Community is a place for users to share and solve their questions by each other, and the answers you found here are not official.
 If you need supports with our official answers, you need to use the technical support form which is provided only for Expert plan (paid plan) users.
 
